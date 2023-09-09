@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  jupyter_datascience_as:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: jupyter_datascience_as
+    image: docker.io/amnahsid/jupyter_datascience_as
+    ports:
+      - '8880:8888'
+    volumes:
+      - ~:/home/jovyan/
