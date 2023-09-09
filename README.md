@@ -15,7 +15,7 @@ $ docker-compose up
 $ docker-compose down
 # where the Dockerfile is the current Docker image for running the analyses, and yaml is the configuration file.
 # Alternatively, you can use a single command: docker-compose up --build
-
+```
 
 ## push to docker repo
 
