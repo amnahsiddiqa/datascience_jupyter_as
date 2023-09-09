@@ -3,7 +3,7 @@
 Test repo for autobuilding dockers
 
 
-## Builkd image Using Docker Compose 
+## Build image Using Docker Compose 
 
 ```bash
 $ cd path/to/directory_containing_yaml_and_Dockerfile
