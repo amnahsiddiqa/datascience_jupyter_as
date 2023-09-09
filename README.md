@@ -26,12 +26,7 @@ $ docker-compose down
 
 ## Link docker to github and autobuild
 
-follow this :
-https://docs.docker.com/docker-hub/builds/?_gl=1*1k6k1ld*_ga*OTI4MDI4NjkzLjE2OTQxMTY5NzM.*_ga_XJWPQMJYHQ*MTY5NDI1NjUxNi4zLjEuMTY5NDI1ODc5NC40NC4wLjA.
-
-and this
-
-https://docs.docker.com/docker-hub/builds/?_gl=1*1ja5mm8*_ga*OTI4MDI4NjkzLjE2OTQxMTY5NzM.*_ga_XJWPQMJYHQ*MTY5NDI1NjUxNi4zLjEuMTY5NDI1OTM3OS41OS4wLjA.
+follow the docs here: [1](https://docs.docker.com/docker-hub/builds/?_gl=1*1k6k1ld*_ga*OTI4MDI4NjkzLjE2OTQxMTY5NzM.*_ga_XJWPQMJYHQ*MTY5NDI1NjUxNi4zLjEuMTY5NDI1ODc5NC40NC4wLjA) and this [2](https://docs.docker.com/docker-hub/builds/?_gl=1*1ja5mm8*_ga*OTI4MDI4NjkzLjE2OTQxMTY5NzM.*_ga_XJWPQMJYHQ*MTY5NDI1NjUxNi4zLjEuMTY5NDI1OTM3OS41OS4wLjA)
 
 
 my build rule looks like this:
